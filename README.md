@@ -6,6 +6,6 @@ A collection of research on the AutoScaling techniques in cloud environment.
 # Algorithms
 
 
-# Public Dataset:
+# Public Dataset
 
 https://github.com/digs-uwo/dcsim/tree/master/traces
